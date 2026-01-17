@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg)](https://tanimweb1.io)
+
 <h1 align="center">Hi 👋, I'm Shahriar Mahmud Tanim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/19730654/file/original-23a9368d5081d24e5277c67b35b68059.gif">
