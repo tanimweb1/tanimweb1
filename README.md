@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahriar-tanim-716927211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriar-tanim-716927211" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahriar-tanim-716927211" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/shahriar-tanim-716927211/)" alt="shahriar-tanim-716927211" height="30" width="40" /></a>
 <a href="https://fb.com/jakestanim.jakestanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakestanim.jakestanim" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/youknowme56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="youknowme56" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/YouKnowMe56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="youknowme" height="30" width="40" /></a>
