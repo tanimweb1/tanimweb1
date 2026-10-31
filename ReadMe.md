@@ -1,5 +1,5 @@
  💫 About Me:
-<br>### 👨‍💻 About Me<br><br>🔭 I'm currently working on C++, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA).<br><br>🤝 I'm looking to collaborate on AI and Robotics Software Projects.<br><br>🤖 I'm looking for help with Robotics Programming and Software Development.<br><br>🌱 I'm currently learning DSA and ROS (Robot Operating System).<br><br>💬 Ask me about C/C++, OOP, Problem Solving, and Robotics.<br><br>⚡ Fun fact: I'm not funny, but I can make debugging fun! 😅<br>
+<br> 👨‍💻 About Me<br><br>🔭 I'm currently working on C++, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA).<br><br>🤝 I'm looking to collaborate on AI and Robotics Software Projects.<br><br>🤖 I'm looking for help with Robotics Programming and Software Development.<br><br>🌱 I'm currently learning DSA and ROS (Robot Operating System).<br><br>💬 Ask me about C/C++, OOP, Problem Solving, and Robotics.<br><br>⚡ Fun fact: I'm not funny, but I can make debugging fun! 😅<br>
 
 
 ## 🌐 Socials:
